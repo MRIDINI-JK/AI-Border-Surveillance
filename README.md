@@ -1,3 +1,13 @@
+---
+title: SentinelAI
+emoji: 🛡️
+colorFrom: blue
+colorTo: indigo
+sdk: docker
+app_file: app.py
+pinned: false
+---
+
 # 🛡️ SentinelAI — Border Threat Detection System
 
 A real-time AI-powered surveillance system for detecting threats at borders using YOLO v8 object detection, persistent tracking, polygon zone intrusion detection, tripwire crossing alerts, and intelligent threat scoring.
